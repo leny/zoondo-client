@@ -92,7 +92,7 @@
     "marked": "^1.1.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "socket.io-client": "^2.3.0",
     "use-socketio": "^2.0.3"
   }
